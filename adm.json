@@ -1,7 +1,7 @@
 {
   "Nome": "Luis",
-  "Email": "luis@email.com",
+  "Modo": "Dark",
   "Senha": "123456",
-  "Idade": 28,
+  "Nascimento": 2008,
   "Telefone": "954864607"
 }
